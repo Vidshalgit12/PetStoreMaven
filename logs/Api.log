@@ -258,3 +258,11 @@
 23:56:15.830 [main] INFO  api.test.UserTests2(36) - ***************Updated user***********
 23:56:15.833 [main] INFO  api.test.UserTests2(36) - ***************Deleting user***********
 23:56:16.813 [main] INFO  api.test.UserTests2(36) - ***************Deleting user completed***********
+00:14:11.069 [main] INFO  api.test.UserTests2(36) - ***************Creating user***********
+00:14:13.479 [main] INFO  api.test.UserTests2(36) - ***************User Created***********
+00:14:13.491 [main] INFO  api.test.UserTests2(36) - ***************Reading user by Name***********
+00:14:14.508 [main] INFO  api.test.UserTests2(36) - ***************Reading user Completed***********
+00:14:14.512 [main] INFO  api.test.UserTests2(36) - ***************Updating user***********
+00:14:16.489 [main] INFO  api.test.UserTests2(36) - ***************Updated user***********
+00:14:16.493 [main] INFO  api.test.UserTests2(36) - ***************Deleting user***********
+00:14:17.479 [main] INFO  api.test.UserTests2(36) - ***************Deleting user completed***********
