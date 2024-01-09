@@ -6,7 +6,7 @@
 	</listeners>
   <test thread-count="5" name="PetTest">
     <classes>
-     <!-- <class name="api.test.UserTests"/> -->
+     <!-- <class name="api.test.UserTests"/> Disabled-->
       <class name="api.test.UserTests2"/>
 
      <!-- <class name="api.test.DDTests"/> -->
