@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-10T01:17:34 NZDT" name="PetSuite" finished-at="2024-01-10T01:17:42 NZDT" duration-ms="7776">
+  <suite started-at="2024-01-15T21:56:12 NZDT" name="PetSuite" finished-at="2024-01-15T21:56:19 NZDT" duration-ms="7384">
     <groups>
     </groups>
-    <test started-at="2024-01-10T01:17:34 NZDT" name="PetTest" finished-at="2024-01-10T01:17:42 NZDT" duration-ms="7776">
-      <class name="api.test.UserTests2">
-        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTests2@1ab3a8c8]" started-at="2024-01-10T01:17:35 NZDT" name="setupData" finished-at="2024-01-10T01:17:35 NZDT" duration-ms="679" status="PASS">
+    <test started-at="2024-01-15T21:56:12 NZDT" name="PetTest" finished-at="2024-01-15T21:56:19 NZDT" duration-ms="7384">
+      <class name="api.test.UserTests">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTests@1ab3a8c8]" started-at="2024-01-15T21:56:12 NZDT" name="setupData" finished-at="2024-01-15T21:56:13 NZDT" duration-ms="670" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupData -->
-        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTests2@1ab3a8c8]" started-at="2024-01-10T01:17:35 NZDT" name="testPostUser" finished-at="2024-01-10T01:17:38 NZDT" duration-ms="2709" status="PASS">
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTests@1ab3a8c8]" started-at="2024-01-15T21:56:13 NZDT" name="testPostUser" finished-at="2024-01-15T21:56:15 NZDT" duration-ms="2478" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPostUser -->
-        <test-method signature="testGetUserbyName()[pri:2, instance:api.test.UserTests2@1ab3a8c8]" started-at="2024-01-10T01:17:38 NZDT" name="testGetUserbyName" finished-at="2024-01-10T01:17:39 NZDT" duration-ms="1104" status="PASS">
+        <test-method signature="testGetUserbyName()[pri:2, instance:api.test.UserTests@1ab3a8c8]" started-at="2024-01-15T21:56:15 NZDT" name="testGetUserbyName" finished-at="2024-01-15T21:56:16 NZDT" duration-ms="1036" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetUserbyName -->
-        <test-method signature="testUpdateUserbyName()[pri:3, instance:api.test.UserTests2@1ab3a8c8]" started-at="2024-01-10T01:17:39 NZDT" name="testUpdateUserbyName" finished-at="2024-01-10T01:17:41 NZDT" duration-ms="1979" status="PASS">
+        <test-method signature="testUpdateUserbyName()[pri:3, instance:api.test.UserTests@1ab3a8c8]" started-at="2024-01-15T21:56:16 NZDT" name="testUpdateUserbyName" finished-at="2024-01-15T21:56:18 NZDT" duration-ms="1972" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateUserbyName -->
-        <test-method signature="testDeleteUserByName()[pri:4, instance:api.test.UserTests2@1ab3a8c8]" started-at="2024-01-10T01:17:41 NZDT" name="testDeleteUserByName" finished-at="2024-01-10T01:17:42 NZDT" duration-ms="1079" status="PASS">
+        <test-method signature="testDeleteUserByName()[pri:4, instance:api.test.UserTests@1ab3a8c8]" started-at="2024-01-15T21:56:18 NZDT" name="testDeleteUserByName" finished-at="2024-01-15T21:56:19 NZDT" duration-ms="1030" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeleteUserByName -->
-      </class> <!-- api.test.UserTests2 -->
+      </class> <!-- api.test.UserTests -->
     </test> <!-- PetTest -->
   </suite> <!-- PetSuite -->
 </testng-results>
